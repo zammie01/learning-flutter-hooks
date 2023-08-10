@@ -120,6 +120,7 @@ class HomePage extends HookWidget {
   }
 }
 
+// I Generated this classes from refactor
 class LessVisibleButton extends StatelessWidget {
   const LessVisibleButton({
     super.key,
